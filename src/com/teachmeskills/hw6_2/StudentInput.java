@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class StudentInput {
 
-    public void StInp(Student stepOne[]){
+    public void StInp(Student... stepOne){
 
         Scanner scan = new Scanner(System.in);
 
@@ -27,7 +27,7 @@ public class StudentInput {
         }
     }
 
-    public void StOut(Student stepOne[]){
+    public void StOut(Student... stepOne){
 
         for (Student i: stepOne) {
             System.out.println("Name " + i.name + "\n" +

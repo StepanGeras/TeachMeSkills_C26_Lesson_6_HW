@@ -1,7 +1,6 @@
 package com.teachmeskills.hw6_1.service;
 
 import com.teachmeskills.hw6_1.card.CreditCard;
-import com.teachmeskills.hw6_1.run.Run;
 
 import java.util.Scanner;
 
