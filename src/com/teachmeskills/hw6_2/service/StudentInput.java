@@ -1,4 +1,6 @@
-package com.teachmeskills.hw6_2;
+package com.teachmeskills.hw6_2.service;
+
+import com.teachmeskills.hw6_2.student.Student;
 
 import java.util.Scanner;
 

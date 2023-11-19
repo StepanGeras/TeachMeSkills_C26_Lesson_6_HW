@@ -1,4 +1,4 @@
-package com.teachmeskills.hw6_2;
+package com.teachmeskills.hw6_2.student;
 
 public class Student {
 
